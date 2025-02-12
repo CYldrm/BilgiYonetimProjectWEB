@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Answer.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.CarModel.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3262FF28-AE2E-4C9E-8FB8-F6170787C01B}|Business\\Business.csproj|c:\\users\\asus\\source\\repos\\bilgiyonetimproject\\business\\concrete\\answermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3262FF28-AE2E-4C9E-8FB8-F6170787C01B}|Business\\Business.csproj|solutionrelative:business\\concrete\\answermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C23EE1-917E-43BA-BE80-4EAE744F6F38}|Core\\Core.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C23EE1-917E-43BA-BE80-4EAE744F6F38}|Core\\Core.csproj|solutionrelative:core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C23EE1-917E-43BA-BE80-4EAE744F6F38}|Core\\Core.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\core\\aspects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C23EE1-917E-43BA-BE80-4EAE744F6F38}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3262FF28-AE2E-4C9E-8FB8-F6170787C01B}|Business\\Business.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3262FF28-AE2E-4C9E-8FB8-F6170787C01B}|Business\\Business.csproj|solutionrelative:business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Question.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.QuestionGroup.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Dealer.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\webapi\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\webapi\\controllers\\surveyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\surveyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\webapi\\controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3262FF28-AE2E-4C9E-8FB8-F6170787C01B}|Business\\Business.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\business\\concrete\\surveymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3262FF28-AE2E-4C9E-8FB8-F6170787C01B}|Business\\Business.csproj|solutionrelative:business\\concrete\\surveymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A712D97D-2322-4D49-9D1E-213B502D65BF}|Entities\\Entities.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\entities\\concrete\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A712D97D-2322-4D49-9D1E-213B502D65BF}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A712D97D-2322-4D49-9D1E-213B502D65BF}|Entities\\Entities.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\entities\\concrete\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A712D97D-2322-4D49-9D1E-213B502D65BF}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Brand.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3262FF28-AE2E-4C9E-8FB8-F6170787C01B}|Business\\Business.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\business\\abstract\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3262FF28-AE2E-4C9E-8FB8-F6170787C01B}|Business\\Business.csproj|solutionrelative:business\\abstract\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\webapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Admin.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Process.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.DealerPoint.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\webapi\\controllers\\questiongroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF59AC2-7298-45E5-8194-5DECDC6C51AE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\questiongroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Answer [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Answer.sql",
+              "ToolTip": "dbo.Answer [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-08T14:11:59.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.CarModel [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.CarModel.sql",
+              "ToolTip": "dbo.CarModel [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-08T14:07:17.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnswerManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Business\\Concrete\\AnswerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\AnswerManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Business\\Concrete\\AnswerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\AnswerManager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:32:29.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationAspect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:32:20.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Business\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Business\\Constants\\Messages.cs",
+              "RelativeToolTip": "Business\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:32:09.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Core\\Entities\\IDto.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\IDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Core\\Entities\\IDto.cs",
+              "RelativeToolTip": "Core\\Entities\\IDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:55:01.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Question [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Question.sql",
+              "ToolTip": "dbo.Question [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T12:52:12.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.QuestionGroup [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.QuestionGroup.sql",
+              "ToolTip": "dbo.QuestionGroup [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T11:41:30.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Dealer [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Dealer.sql",
+              "ToolTip": "dbo.Dealer [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T15:56:41.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\QuestionsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:43:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SurveysController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\SurveysController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SurveysController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\SurveysController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\SurveysController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:59:30.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProcessesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\ProcessesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProcessesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\ProcessesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProcessesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:59:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:59:37.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SurveyManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Business\\Concrete\\SurveyManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\SurveyManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Business\\Concrete\\SurveyManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\SurveyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:55:08.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Process.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Entities\\Concrete\\Process.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Process.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Entities\\Concrete\\Process.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:36:48.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Survey.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Entities\\Concrete\\Survey.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Survey.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Entities\\Concrete\\Survey.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Survey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:36:54.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-03T14:26:34.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Business\\Abstract\\IBrandService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\Business\\Abstract\\IBrandService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IBrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:55:57.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:55:46.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Admin [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Admin.sql",
+              "ToolTip": "dbo.Admin [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-03T13:51:45.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Brand [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Brand.sql",
+              "ToolTip": "dbo.Brand [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-03T16:58:44.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Process [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.Process.sql",
+              "ToolTip": "dbo.Process [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T11:41:52.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.DealerPoint [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BilgiYonetim/True/SqlTable/dbo.DealerPoint.sql",
+              "ToolTip": "dbo.DealerPoint [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T15:35:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QuestionGroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\QuestionGroupsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\QuestionGroupsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BilgiYonetimProject\\WebAPI\\Controllers\\QuestionGroupsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\QuestionGroupsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:43:21.376Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
